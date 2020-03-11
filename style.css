@@ -405,5 +405,31 @@ header{
 }
 .section8columns{
     display: flex;
-    flex-direction: column;
+}
+.box18{
+    
+    background-color: #3D37F1;
+    border-radius: 50%;
+    color: white;
+    padding:20px;
+    text-align: center;
+
+}
+.section81{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.secton8margin{
+    margin: 30px;
+}
+.section8title{
+    font-size: 12pt;
+    color: #747474;
+    font-family: Roboto;
+}
+.section8text{
+    font-size: 10pt;
+    color: #747474;
+    font-family: Roboto;
 }
