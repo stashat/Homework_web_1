@@ -402,6 +402,7 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 50px;
 }
 .section8columns{
     display: flex;
@@ -462,5 +463,34 @@ header{
     color: #5A5454;
 }
 .section8text1{
+    color: #747474;
+}
+.section9{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.section91{
+    display: flex;
+    text-align: left;
+}
+.box19{
+    height: 700px;
+    margin: 20px;
+    -webkit-box-shadow: 10px 10px 57px -11px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 57px -11px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 57px -11px rgba(0,0,0,0.75);
+}
+.section9title{
+    color: #5A5454;
+    font-weight: bold;
+    font-family: Lato;
+}
+.textsection9{
+    padding: 20px;
+}
+.section9p{
     color: #747474;
 }
