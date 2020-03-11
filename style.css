@@ -421,7 +421,8 @@ header{
     justify-content: center;
 }
 .secton8margin{
-    margin: 30px;
+    margin: 5px;
+    margin-right: 20px;
 }
 .section8title{
     font-size: 12pt;
@@ -432,4 +433,34 @@ header{
     font-size: 10pt;
     color: #747474;
     font-family: Roboto;
+}
+.box38{
+    background-color: #FFBA3F;
+}
+.box58{
+    background-color: #66659F;
+}
+.box78{
+    background-color: #37F1BE;
+}
+.box98{
+    background-color: #F13D37;
+}
+.box28{
+    background-color: #9997DF;
+}
+.box48{
+    background-color: #E66E6E;
+}
+.box68{
+    background-color: #F17637;
+}
+.box88{
+    background-color: #F137E5;
+}
+.section8title1{
+    color: #5A5454;
+}
+.section8text1{
+    color: #747474;
 }
