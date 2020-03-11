@@ -14,9 +14,6 @@ header{
 .logo{
     margin-right: 250px;
 }
-nav{
-    /* flex: 2; */
-}
 .ul_nav{
     background-color: #3D37F1;
     list-style-type: none;
@@ -366,4 +363,47 @@ nav{
 .text65{
     font-size: 20pt;
     margin-right: 100px;
+}
+.section7{
+    display: flex;
+    padding: 80px;
+    justify-content: center;
+    align-items: center;
+}
+.section7box1{
+    background-color: #131B7C;
+    color: white;
+    padding: 70px;
+    padding-bottom: 80px;
+    margin: 10px;
+    border-radius: .7em;
+}
+.section7box2{
+    background-color: #F36F21;
+    color: white;
+    padding: 70px;
+    padding-bottom: 80px;
+    margin: 10px;
+    border-radius: .7em;
+}
+.section7box3{
+    background-color: #A5A2F6;
+    color: white;
+    padding: 70px;
+    padding-bottom: 80px;
+    margin: 10px;
+    border-radius: .7em;
+}
+.section7text{
+    font-weight: lighter;
+}
+.section8{
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section8columns{
+    display: flex;
+    flex-direction: column;
 }
