@@ -477,7 +477,7 @@ header{
     text-align: left;
 }
 .box19{
-    height: 700px;
+    height: 550px;
     margin: 20px;
     -webkit-box-shadow: 10px 10px 57px -11px rgba(0,0,0,0.75);
     -moz-box-shadow: 10px 10px 57px -11px rgba(0,0,0,0.75);
@@ -493,4 +493,22 @@ header{
 }
 .section9p{
     color: #747474;
+}
+.section9title1{
+    color: #5A5454;
+    font-family: Lato;
+    font-size: 30pt;
+    font-weight: normal;
+}
+.section9text{
+    color: #747474;
+}
+.pointer{
+    margin-left: 30px;
+}
+.sponsors{
+    display: flex;
+}
+.sponsormargin{
+    margin: 20px;
 }
