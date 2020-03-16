@@ -4,6 +4,9 @@ body{
     justify-content: center;
     align-items: center;
     font-family: 'Roboto';
+    width: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 header{
@@ -11,7 +14,6 @@ header{
     margin-bottom: 20px;
     padding: 30px;
     display: flex;
-    position: relative;
     align-items: center;
     justify-content: center;
 }
@@ -23,7 +25,6 @@ header{
     list-style-type: none;
     margin: 0;
     padding: 0;
-    position: relative;
     border-radius: 1.5em;
 } 
 .li_nav{
@@ -590,6 +591,9 @@ header{
     margin-top: 50px;
 }
 @media(max-width:650px){
+body{
+    width: 100%;
+}
 .image1{
     display: none;
 }
